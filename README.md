@@ -4,54 +4,20 @@ It enables Admins, Module Heads, Module Leaders, and Participants to collaborate
 
 📁 Project Structure
 ZabEFest/
-│
+
 ├── backend/                              # Node.js + Express + MongoDB backend
-│   ├── models/                           # Mongoose schemas (User, Module, Event, Participant, Notification)
-│   ├── routes/                           # Express routes for API endpoints
-│   ├── controllers/                      # Business logic for each route
-│   ├── middlewares/                      # Auth and role-based middleware
-│   ├── config/                           # Database & email configuration
-│   ├── utils/                            # Helper functions (e.g., email sender, token generator)
-│   ├── tests/                            # Jest or Mocha unit tests
-│   ├── server.js                         # Backend entry point
-│   ├── package.json                      # Backend dependencies
-│   ├── .env                              # Environment variables
-│   └── README.md                         # Backend documentation
-│
+
+
 ├── frontend/                             # React.js Admin Dashboard
-│   ├── public/                           # Public assets (images, favicon)
-│   ├── src/
-│   │   ├── components/                   # Reusable UI components
-│   │   ├── pages/                        # Admin pages (Events, Modules, Participants, Notifications)
-│   │   ├── services/                     # Axios API integrations
-│   │   ├── context/                      # Context API for global state
-│   │   ├── hooks/                        # Custom React hooks
-│   │   ├── App.js                        # App routing and entry
-│   │   └── index.js                      # React DOM renderer
-│   ├── package.json                      # Frontend dependencies
-│   └── README.md                         # Frontend documentation
-│
+
+
 ├── mobile_app/                           # Flutter App for Participants
-│   ├── assets/                           # App icons, images, fonts
-│   ├── lib/
-│   │   ├── screens/                      # Screens (Login, Signup, Home, Modules, Payment)
-│   │   ├── services/                     # API connections to backend
-│   │   ├── models/                       # Dart models for JSON parsing
-│   │   ├── widgets/                      # Reusable UI widgets
-│   │   ├── main.dart                     # App entry point
-│   │   └── constants.dart                # Global constants (API URLs, theme colors)
-│   ├── pubspec.yaml                      # Flutter dependencies
-│   └── README.md                         # Mobile app documentation
-│
+
+
 ├── docs/                                 # Documentation, screenshots, and reports
-│   ├── images/                           # All images for README or reports
-│   ├── architecture-diagram.png          # System architecture
-│   ├── database-schema.png               # ERD or database schema
-│   └── screenshots.html                  # Linked screenshots file
-│
-├── .gitignore                            # Global Git ignore (for node_modules, build, etc.)
+
+                     
 ├── README.md                             # Main project overview and setup guide
-└── LICENSE                               # License file (optional)
 
 
 🚀 Features
