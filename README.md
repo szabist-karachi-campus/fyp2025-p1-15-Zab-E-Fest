@@ -1,5 +1,4 @@
 🎉 Zab E-Fest 2025 – Event Management Platform
-
 Zab E-Fest is a comprehensive event management system designed for ZABIST University to manage its annual E-Fest competition.
 It enables Admins, Module Heads, Module Leaders, and Participants to collaborate seamlessly through a unified web and mobile platform.
 
@@ -159,11 +158,39 @@ Deploy mobile app via Flutter APK build:
 flutter build apk --release
 
 📸 Screenshots
+Admin Dashboard
 <img width="1872" height="918" alt="Dashboard all modules" src="https://github.com/user-attachments/assets/3b2fa5c5-2021-451d-b03b-4ac8693d275d" />
 
+Module Screen
+<img width="1895" height="1016" alt="event management" src="https://github.com/user-attachments/assets/73c1f706-525a-4546-b1a1-5516bea3a556" />
 
-Admin Dashboard
+Payment Cgeckout Screen
+<img width="1590" height="910" alt="payment" src="https://github.com/user-attachments/assets/7f0c96b6-0d81-42d1-8702-ff15f87a35d8" />
 
-Mobile App Home Screen
 
-Notification View
+Result Screen
+<img width="1590" height="908" alt="results" src="https://github.com/user-attachments/assets/37fcb865-bbb3-4eeb-a440-4785b0ea796c" />
+
+
+***  Mobile App  ***
+Sign in
+![sign in](https://github.com/user-attachments/assets/75ebb9f2-b7df-4a63-a695-051a782a2b83)
+
+Sign Up
+![sign up](https://github.com/user-attachments/assets/93bd56a9-5a53-4e25-b22e-8bc2cabb1711)
+
+Participant Dashboard
+![Applying for Module](https://github.com/user-attachments/assets/743d5a03-dd07-4c6e-a865-347561d3e17d)
+
+Module Screen
+<img width="371" height="807" alt="module screen" src="https://github.com/user-attachments/assets/6e2277d0-a63e-483a-a245-aa1e2c932490" />
+
+Participant Result Tracking System
+![Student Result Tracking system](https://github.com/user-attachments/assets/4d6e8fc8-b5aa-42cf-8115-e1d4c0d8cd0b)
+
+Real Time Notification System
+![Notification screen](https://github.com/user-attachments/assets/fe7abc48-dd34-45d7-8bc1-5496ecd7a89b)
+
+
+
+@  Code By: Karan Kumar && Syed Sabih Ghufran Naqvi
