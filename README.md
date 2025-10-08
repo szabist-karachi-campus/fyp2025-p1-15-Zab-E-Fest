@@ -175,7 +175,7 @@ Result Screen
 
 ***  Mobile App  ***
 Sign in
-<img width="1872" height="918"  src="https://github.com/user-attachments/assets/75ebb9f2-b7df-4a63-a695-051a782a2b83" alt="Sign in"/>
+<img width="250" height="600"  src="https://github.com/user-attachments/assets/75ebb9f2-b7df-4a63-a695-051a782a2b83" alt="Sign in"/>
 Sign Up
 <img width="1872" height="918" src="https://github.com/user-attachments/assets/93bd56a9-5a53-4e25-b22e-8bc2cabb1711" alt="Sign up"/>
 Participant Dashboard
