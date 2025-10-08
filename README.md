@@ -24,6 +24,7 @@ ZabEFest/
 ├── lib/screens/ # Screens (Login, Signup, Home, Modules, Payment)
 ├── lib/services/ # API connections to backend
 ├── lib/main.dart # App entry point
+
 └── pubspec.yaml # Flutter dependencies
 
 🚀 Features
