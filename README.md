@@ -175,23 +175,17 @@ Result Screen
 
 ***  Mobile App  ***
 Sign in
-![sign in](https://github.com/user-attachments/assets/75ebb9f2-b7df-4a63-a695-051a782a2b83)
-
+<img width="1872" height="918"  src="https://github.com/user-attachments/assets/75ebb9f2-b7df-4a63-a695-051a782a2b83" alt="Sign in"/>
 Sign Up
-![sign up](https://github.com/user-attachments/assets/93bd56a9-5a53-4e25-b22e-8bc2cabb1711)
-
+<img width="1872" height="918" src="https://github.com/user-attachments/assets/93bd56a9-5a53-4e25-b22e-8bc2cabb1711" alt="Sign up"/>
 Participant Dashboard
-![Applying for Module](https://github.com/user-attachments/assets/743d5a03-dd07-4c6e-a865-347561d3e17d)
-
+<img width="1872" height="918" src="https://github.com/user-attachments/assets/743d5a03-dd07-4c6e-a865-347561d3e17d" alt="Participant Dashboard"/>
 Module Screen
-<img width="371" height="807" alt="module screen" src="https://github.com/user-attachments/assets/6e2277d0-a63e-483a-a245-aa1e2c932490" />
+<img  width="1872" height="918" width="371" height="807" alt="Module screen" src="https://github.com/user-attachments/assets/6e2277d0-a63e-483a-a245-aa1e2c932490" />
 
 Participant Result Tracking System
-![Student Result Tracking system](https://github.com/user-attachments/assets/4d6e8fc8-b5aa-42cf-8115-e1d4c0d8cd0b)
-
+<img width="1872" height="918" src="https://github.com/user-attachments/assets/4d6e8fc8-b5aa-42cf-8115-e1d4c0d8cd0b" alt="Student Result Tracking system"/>
 Real Time Notification System
-![Notification screen](https://github.com/user-attachments/assets/fe7abc48-dd34-45d7-8bc1-5496ecd7a89b)
-
-
+<img width="1872" height="918" src="https://github.com/user-attachments/assets/fe7abc48-dd34-45d7-8bc1-5496ecd7a89b" alt="Notification screen"/>
 
 @  Code By: Karan Kumar && Syed Sabih Ghufran Naqvi
