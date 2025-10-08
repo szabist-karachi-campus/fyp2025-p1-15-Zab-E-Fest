@@ -5,6 +5,8 @@ It enables Admins, Module Heads, Module Leaders, and Participants to collaborate
 📁 Project Structure
 ZabEFest/
 
+
+
 ├── backend/                              # Node.js + Express + MongoDB backend
 
 
@@ -18,6 +20,9 @@ ZabEFest/
 
                      
 ├── README.md                             # Main project overview and setup guide
+
+
+
 
 
 🚀 Features
