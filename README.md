@@ -143,11 +143,11 @@ POST /api/notifications/send Admin send notification
 GET /api/notifications/role/:role Get notifications by role
 🧠 Contributors
 
-👨‍💻 Sooraj Kumar – Full Stack Developer
+
 
 🧑‍💼 Team Zab E-Fest 2025 – ZABIST Karachi Campus
 
-🎓 Supervisor: [Your Supervisor’s Name]
+🎓 Supervisor: Ali Zaman And Ayesha Ghayas && Wali Khubaib
 
 🌍 Deployment
 
@@ -160,9 +160,8 @@ Deploy mobile app via Flutter APK build:
 
 flutter build apk --release
 
-📸 Screenshots (Optional)
+📸 Screenshots 
 
-Add screenshots of:
 
 Admin Dashboard
 
