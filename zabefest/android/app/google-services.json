@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "570796611705",
+    "project_id": "zabefest-8c268",
+    "storage_bucket": "zabefest-8c268.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570796611705:android:ea1a5e4a8d6cdaee93dca8",
+        "android_client_info": {
+          "package_name": "com.example.zabefest_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRSSDlirA8Liw5f-rZ0ve_tVFufUih6y8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
