@@ -1,0 +1,71 @@
+/* RegistrationTeam.css */
+
+.container {
+    padding: 20px;
+    background-color: #f6f7f8;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .heading {
+    margin-bottom: 20px;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .form-container {
+    max-width: 400px;
+    width: 100%;
+    background-color: black; /* Changed the box color to black as per your request */
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    padding: 20px;
+  }
+  
+  .form-container .MuiTextField-root {
+    margin: 8px 0;
+    width: 100%;
+
+  }
+  
+  .form-container .MuiButton-root {
+    margin-top: 20px;
+    padding: 10px;
+    font-weight: bold;
+    color: #f5f4f4;
+    border-color: #1d0385;
+    background-color: #0e0d0d;
+  }
+  
+  .logout-button {
+    position: absolute;
+    margin-bottom: 20px;
+    top: 4px;
+    left: 650px;
+    font-weight: bold;
+    color: hsl(0, 27%, 94%);
+    border-color: #0521b2;
+    background-color: #131313;
+    
+  }
+  
+  .table-container {
+    max-width: 2800px;
+    margin-top: 20px;
+    width: 100%;
+    border-radius: 8px;
+    overflow: hidden;
+  }
+  
+  .table-header {
+    background-color: #3f51b5;
+    color: white;
+  }
+  
+  .table-cell {
+    color: white;
+    font-weight: bold;
+  }
+  
