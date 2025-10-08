@@ -159,6 +159,8 @@ Deploy mobile app via Flutter APK build:
 flutter build apk --release
 
 📸 Screenshots
+<img width="1872" height="918" alt="Dashboard all modules" src="https://github.com/user-attachments/assets/3b2fa5c5-2021-451d-b03b-4ac8693d275d" />
+
 
 Admin Dashboard
 
