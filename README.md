@@ -143,8 +143,6 @@ POST /api/notifications/send Admin send notification
 GET /api/notifications/role/:role Get notifications by role
 🧠 Contributors
 
-
-
 🧑‍💼 Team Zab E-Fest 2025 – ZABIST Karachi Campus
 
 🎓 Supervisor: Ali Zaman And Ayesha Ghayas && Wali Khubaib
@@ -160,8 +158,7 @@ Deploy mobile app via Flutter APK build:
 
 flutter build apk --release
 
-📸 Screenshots 
-
+📸 Screenshots
 
 Admin Dashboard
 
